@@ -1,6 +1,6 @@
 # Prompt-Engineering-Techniques (Created by ChatGPT)
 
-Prompt Engineering involves designing effective prompts to guide AI models for optimal performance. Below are 11 key techniques:
+Prompt Engineering is the practice of crafting effective prompts to optimize AI model performance. Below are 11 key techniques:
 
 ---
 
